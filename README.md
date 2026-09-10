@@ -1,4 +1,4 @@
-Intern ID : CITS8718
+Intern ID :CITS8718
 
 
 # 🌸 Iris Intelligence — Iris Species Classification
@@ -14,7 +14,7 @@ and interactive visualization into a single Streamlit dashboard.
 ## 🚀 Live Demo
 
 **Streamlit Dashboard:**  
-PASTE-YOUR-STREAMLIT-URL-HERE
+https://iris-species-classification-h.streamlit.app/
 
 ---
 
